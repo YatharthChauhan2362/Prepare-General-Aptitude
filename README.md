@@ -38,7 +38,7 @@
 31. True Discount
 32. Banker's Discoun
 
-[Aptitude Test Preparation | PDF](https://www.linkedin.com/posts/yatharth-chauhan-729674202_aptitude-test-preparation-yatharth-chauhan-activity-7034745207799627776--qVM?utm_source=share&utm_medium=member_desktop)
+[Download the PDF - Aptitude Test Preparation](https://www.linkedin.com/posts/yatharth-chauhan-729674202_aptitude-test-preparation-yatharth-chauhan-activity-7034745207799627776--qVM?utm_source=share&utm_medium=member_desktop)
 
 <!--
 33. [Problems on Trains](#Problems-on-Trains)

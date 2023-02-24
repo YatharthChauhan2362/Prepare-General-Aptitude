@@ -5,50 +5,79 @@
 
 ## Table of Contents
 
-1. [Problems on Trains](#Problems-on-Trains)
-2. [Time and Distance](#Time-and-Distance)
-3. [Height and Distance](#Height-and-Distance)
-4. [Time and Work](#Time-and-Work)
-5. [Simple Interest](#Simple-Interest)
-6. [Compound Interest](#Compound-Interest)
-7. [Profit and Loss](#Profit-and-Loss)
-8. [Partnership](#Partnership)
-9. [Percentage](#Percentage)
-10. [Problems on Ages](#Problems-on-Ages)
-11. [Calendar](#Calendar)
-12. [Clock](#Clock)
-13. [Average](#Average)
-14. [Area](#Area)
-15. [Volume and Surface Area](#Volume-and-Surface-Area)
-16. [Permutation and Combination](#Permutation-and-Combination)
-17. [Numbers](#Numbers)
-18. [Problems on Numbers](#Problems-on-Numbers)
-19. [Problems on H.C.F and L.C.M](#Problems-on-H.C.F-and-L.C.M)
-20. [Decimal Fraction](#Decimal-Fraction)
-21. [Simplification](#Simplification)
-22. [Square Root and Cube Root](#Square-Root-and-Cube-Root)
-23. [Surds and Indices](#Surds-and-Indices)
-24. [Ratio and Proportion](#Ratio-and-Proportion)
-25. [Chain Rule](#Chain-Rule)
-26. [Pipes and Cistern](#Pipes-and-Cistern)
-27. [Boats and Streams](#Boats-and-Streams)
-28. [Alligation or Mixture](#Alligation-or-Mixture)
-29. [Logarithm](#Logarithm)
-30. [Races and Games](#Races-and-Games)
-31. [Stocks and Shares](#Stocks-and-Shares)
-32. [Probability](#Probability)
-33. [True Discount](#True-Discount)
-34. [Banker's Discount](#Banker's-Discount)
-35. [Odd Man Out and Series](#Odd-Man-Out-and-Series)
+1. Problems on Trains
+2. Time and Distance
+3. Height and Distance
+4. Time and Work
+5. Simple Interest
+6. Compound Interest
+7. Profit and Loss
+8. Partnership
+9. Percentage
+10. Ages
+11. Calendar
+12. Clock
+13. Average
+14. Area
+15. Volume and Surface Area
+16. Permutation and Combination
+17. Numbers
+18. H.C.F and L.C.M
+19. Decimal Fraction
+20. Simplification
+21. Square Root and Cube Root
+22. Surds and Indices
+23. Ratio and Proportion
+24. Pipes and Cistern
+25. Boats and Streams
+26. Allegation or Mixture
+27. Logarithm
+28. Races and Games
+29. Stocks and Shares
+30. Probability
+31. True Discount
+32. Banker's Discoun
 
-1
-1
-1
-1
-1
-1
+[Aptitude Test Preparation | PDF](#)
 
-# Problems on Trains
+<!--
+33. [Problems on Trains](#Problems-on-Trains)
+34. [Time and Distance](#Time-and-Distance)
+35. [Height and Distance](#Height-and-Distance)
+36. [Time and Work](#Time-and-Work)
+37. [Simple Interest](#Simple-Interest)
+38. [Compound Interest](#Compound-Interest)
+39. [Profit and Loss](#Profit-and-Loss)
+40. [Partnership](#Partnership)
+41. [Percentage](#Percentage)
+42. [Problems on Ages](#Problems-on-Ages)
+43. [Calendar](#Calendar)
+44. [Clock](#Clock)
+45. [Average](#Average)
+46. [Area](#Area)
+47. [Volume and Surface Area](#Volume-and-Surface-Area)
+48. [Permutation and Combination](#Permutation-and-Combination)
+49. [Numbers](#Numbers)
+50. [Problems on Numbers](#Problems-on-Numbers)
+51. [Problems on H.C.F and L.C.M](#Problems-on-H.C.F-and-L.C.M)
+52. [Decimal Fraction](#Decimal-Fraction)
+53. [Simplification](#Simplification)
+54. [Square Root and Cube Root](#Square-Root-and-Cube-Root)
+55. [Surds and Indices](#Surds-and-Indices)
+56. [Ratio and Proportion](#Ratio-and-Proportion)
+57. [Chain Rule](#Chain-Rule)
+58. [Pipes and Cistern](#Pipes-and-Cistern)
+59. [Boats and Streams](#Boats-and-Streams)
+60. [Alligation or Mixture](#Alligation-or-Mixture)
+61. [Logarithm](#Logarithm)
+62. [Races and Games](#Races-and-Games)
+63. [Stocks and Shares](#Stocks-and-Shares)
+64. [Probability](#Probability)
+65. [True Discount](#True-Discount)
+66. [Banker's Discount](#Banker's-Discount)
+67. [Odd Man Out and Series](#Odd-Man-Out-and-Series) -->
+
+<!-- # Problems on Trains
 
 # Time and Distance
 
@@ -116,4 +145,4 @@
 
 # Banker's Discount
 
-# Odd Man Out and Series
+# Odd Man Out and Series -->
